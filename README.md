@@ -1,89 +1,80 @@
-<div>
-  <h1>Click on the GitHub icon below to view the project online.</h1>
+<div align="center">
+  <h1>🗓️ Daily Planner Pro</h1>
+  <p>Manage your daily tasks with alerts, sounds, and modern animations 🔔</p>
   <a href="https://hamiparsa.github.io/Task-List/">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Live_Project-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-# Daily Planner Pro 🗓️🔔
+---
 
-Daily Planner Pro is a modern, interactive task management web application built with React and Next.js. Users can add tasks with specific times, receive visual and audio reminders when a task is due, and mark tasks as completed. The project demonstrates advanced front-end skills using React, Next.js, TypeScript, Tailwind CSS, Framer Motion, and React Icons.
+## 📝 About the Project
+
+**Daily Planner Pro** is an interactive task management web application. Users can add, edit, delete, and complete tasks with scheduled reminders. It uses **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **Framer Motion**, and **React Icons** for a modern, responsive, and animated interface.
 
 ---
 
-## Features:
+## ✨ Features
 
 <ul>
-  <li>Add tasks with titles and specific times</li>
-  <li>Tasks are persisted in localStorage, so refreshing the page doesn't erase them</li>
-  <li>Visual modal alert pops up when a task's time is reached</li>
-  <li>Audio alarm plays alongside the modal alert</li>
-  <li>Once a task is marked done, it cannot be unmarked</li>
-  <li>Delete or edit tasks</li>
-  <li>Responsive, modern, and smooth UI with gradients, shadows, and hover effects</li>
-  <li>Animated task entry and exit with Framer Motion</li>
+  <li>➕ Add tasks with titles and specific times</li>
+  <li>💾 Persistent tasks via localStorage</li>
+  <li>🔔 Modal alert with audio when a task is due</li>
+  <li>✅ Mark tasks as completed (cannot be undone)</li>
+  <li>✏️ Edit and delete tasks</li>
+  <li>💻 Responsive UI with gradients, shadows, and hover effects</li>
+  <li>🎨 Smooth entry and exit animations with Framer Motion</li>
 </ul>
 
 ---
 
-## Technologies Used:
+## 🧰 Tech Stack
 
-<ul>
-  <li>
-    React for building UI components
-    <img width='20px' src='https://skillicons.dev/icons?i=react'>
-  </li>
-  <li>
-    Next.js for routing and server-side rendering
-    <img width='20px' src='https://skillicons.dev/icons?i=next'>
-  </li>
-  <li>
-    TypeScript for type safety
-    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
-  </li>
-  <li>
-    Tailwind CSS for fast and responsive styling
-    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
-  </li>
-  <li>
-    Framer Motion for smooth animations
-    <img width='20px' src='https://skillicons.dev/icons?i=framer'>
-  </li>
-  <li>
-    React Icons for scalable vector icons
-    <img width='20px' src='https://skillicons.dev/icons?i=react'>
-  </li>
-</ul>
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ **React** | Interactive UI components |
+| 🧭 **Next.js** | Routing & server-side rendering |
+| 🟦 **TypeScript** | Type safety & maintainable code |
+| 🎨 **Tailwind CSS** | Responsive styling & modern UI |
+| 🪄 **Framer Motion** | Smooth animations & transitions |
+| 🛠️ **React Icons** | Scalable vector icons |
 
 ---
 
-## Description:
+## 💡 Description
 
-Daily Planner Pro is a task management tool with a modern design and advanced alert system. Users can:
+Daily Planner Pro lets users:
 
-- Add tasks with specific times
-- View tasks in a responsive, gradient-styled list
-- Receive modal alerts with sound when a task is due
-- Mark tasks as completed (cannot be undone)
-- Edit or delete tasks
-- Persist tasks using localStorage
+- Add, edit, delete, and complete tasks  
+- Receive modal and audio alerts for scheduled tasks  
+- Track tasks in a responsive, gradient-styled list  
 
-The project showcases:
+The project demonstrates:
 
-- Modern UI with Tailwind CSS and gradient cards
-- Interactive animations with Framer Motion
-- Audio and modal alert system for task reminders
-- Persistent storage with localStorage
-- Professional front-end design with React and TypeScript
+- Modern UI with Tailwind CSS  
+- Interactive animations using Framer Motion  
+- Persistent storage using localStorage  
+- Advanced alert system with audio and modals  
 
 ---
 
-<h1 align="center">Project Pictures 🖼️</h1>
+## 🖼️ Project Preview
 
 <div align="center">
   <img src="/pic1.png" width="700px" />
-  <br/> <br/>
-  <hr/>
-  <br/> <br/>
+  <br/><br/>
   <img src="/pic2.png" width="700px" />
+</div>
+
+---
+
+## 👨‍💻 Author
+
+**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+💬 Front-End Developer | Passionate about interactive web applications  
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,framer" />
 </div>
